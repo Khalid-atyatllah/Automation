@@ -9,7 +9,7 @@
 
 - **`email_content.py`**: Includes the function to prompt the user for email subject and body content.
 
-- **`recipients.xlsx`**: Excel file containing a list of recipient email addresses under the 'Email' column.
+- **`recipients.xlsx`**: It should be in Excel format that containing a list of recipient email addresses under the 'Email' column.
 
 ## Usage
 
