@@ -1,7 +1,4 @@
-#Excel to JSON Converter project
 
-def generate_readme():
-    readme_content = """\
 # Excel to JSON Converter
 
 This Python script converts data from an Excel spreadsheet into JSON format.
