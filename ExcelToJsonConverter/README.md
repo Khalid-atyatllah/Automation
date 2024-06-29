@@ -1,4 +1,4 @@
-# Generate README.md for Excel to JSON Converter project
+#Excel to JSON Converter project
 
 def generate_readme():
     readme_content = """\
